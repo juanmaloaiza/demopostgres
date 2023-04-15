@@ -1,0 +1,2 @@
+insert into cr_patios (pat_nombre,pat_direccion,pat_telefono,pat_punto_venta) values ("Patio 1","Dir 1", "222222", 21);
+insert into cr_patios (pat_nombre,pat_direccion,pat_telefono,pat_punto_venta) values ("Patio 2","Dir 2", "33333", 21);
